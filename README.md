@@ -190,3 +190,5 @@ For YOLO based approach, it achieves real-time and the accuracy are quite satisf
  to 448x448, so the car in distance will be tiny and probably quite distorted in the downscaled image (448x448). In order to 
  correctly identify the car in distance, we might need to either crop the image instead of directly downscaling it, or retrain 
  the network.
+ 
+ ## ✍️ Please give this repo a ⭐ if you found it helpful.
